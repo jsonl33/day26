@@ -1,4 +1,4 @@
-package javaClass;
+package abs;
 
 abstract class Abs01 {
     abstract void m01();
